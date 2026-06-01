@@ -1,7 +1,10 @@
 .DS_Store
+.env
 *.pyc
 *.egg-info
 *.swp
+*.log
 tags
+dist/
 node_modules
 __pycache__
